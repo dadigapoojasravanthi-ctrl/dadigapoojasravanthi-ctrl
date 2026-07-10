@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dadiga Pooja Sravanthi
 
 <p align="center">
-  <img src="poojaGit.png" alt="GitHub Banner" width="50%>
+  <img src="poojaGit.png" alt="GitHub Banner" width="30%>
 </p>
 
 <p align="center">
