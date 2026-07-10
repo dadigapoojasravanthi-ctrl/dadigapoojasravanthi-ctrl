@@ -167,7 +167,7 @@ Worked on a **Digital Learning Platform for Rural School Students**
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/pooja-sravanthi-dadiga/" target="_blank">
+<a href="https://www.linkedin.com/feed/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
