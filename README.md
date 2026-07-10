@@ -1,8 +1,7 @@
 # Hi 👋, I'm Dadiga Pooja Sravanthi
 
 <p align="center">
-  <img src="<img width="1024" height="1024" alt="ChatGPT Image Jul 10, 2026, 02_43_48 PM" src="https://github.com/user-attachments/assets/937887c4-650f-42b4-9cbf-df3c5d7bb889" />
-" alt="GitHub Banner" width="100%">
+  <img src="poojaBanner.png" alt="GitHub Banner" width="100%>
 </p>
 
 <p align="center">
