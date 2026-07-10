@@ -1,7 +1,8 @@
 # Hi 👋, I'm Dadiga Pooja Sravanthi
 
 <p align="center">
-  <img src="poojaBanner.png" alt="GitHub Banner" width="100%">
+  <img src="<img width="1024" height="1024" alt="ChatGPT Image Jul 10, 2026, 02_43_48 PM" src="https://github.com/user-attachments/assets/937887c4-650f-42b4-9cbf-df3c5d7bb889" />
+" alt="GitHub Banner" width="100%">
 </p>
 
 <p align="center">
@@ -26,7 +27,7 @@ Passionate about software engineering, building AI-powered applications, solving
 - 💡 Passionate about **Software Engineering, Java Development, and Artificial Intelligence**
 - 🌱 Currently learning **Spring Boot, Generative AI, Machine Learning, REST APIs, and Data Structures & Algorithms**
 - 🚀 Looking for **Software Engineering Internships** and **Full-Time Opportunities**
-- 💻 Strong interest in **Java Backend Development** and **AI-powered Applications**
+- 💻 Strong interest in **Java Development** and **AI-powered Applications**
 - ⚡ Love solving real-world problems through technology
 
 ---
@@ -49,40 +50,48 @@ Worked on a **Digital Learning Platform for Rural School Students**
 
 ---
 
-# 🚀 Projects
+
+---# 🚀 Projects
 
 ## 🤖 AI Interview Preparation Assistant
 
-**Tech Stack:** Python • Flask • HTML • CSS • JavaScript • NLP • LLM Concepts
+**Tech Stack:** Python • Flask • HTML • CSS • JavaScript
 
 - AI-powered interview preparation platform
-- Resume-based interview question generation
-- Mock interview system
-- AI-generated feedback
-- Generative AI & NLP concepts
+- Generates interview questions from resumes
+- Provides mock interview practice and feedback
 
 ---
 
 ## 📚 Digital Learning Platform (Smart India Hackathon)
 
-**Tech Stack:** Java • Flutter • Node.js • MySQL • REST APIs
+**Tech Stack:** Java • Flutter • Node.js • MySQL
 
-- Offline-first learning platform
-- Multilingual learning support
-- Student, Teacher & Parent Dashboards
-- Gamified learning
-- Quiz Management
+- Offline learning platform for rural students
+- Supports multiple languages
+- Includes quizzes and dashboards for students, teachers, and parents
 
 ---
 
 ## 📱 SMS Spam Classifier
 
-**Tech Stack:** Python • Scikit-learn • NLTK • TF-IDF • Naive Bayes
+**Tech Stack:** Python • Scikit-learn • NLTK
 
-- Spam/Ham message classification
-- NLP preprocessing
-- Machine Learning model
-- High prediction accuracy
+- Detects spam and non-spam messages
+- Uses Natural Language Processing (NLP)
+- Built using Machine Learning techniques
+
+---
+
+## 📖 Student Management System
+
+**Tech Stack:** Java • JDBC • Oracle Database
+
+- Manages student records and information
+- Supports adding, updating, and deleting student details
+- Uses Java and Oracle Database for data management
+
+
 
 ---
 
@@ -106,13 +115,15 @@ Worked on a **Digital Learning Platform for Rural School Students**
 - Object Oriented Programming in Java – CODETANTRA
 - Machine Learning with Python – freeCodeCamp
 - Google Cloud Skills Boost – Generative AI & LLMs
+- Cloud Computing -NPTEL
+- The Joy of Computing using Python - NPTEL
 
 ---
 
 # 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,mysql" />
+<img src="https://skillicons.dev/icons?i=java,c,html,css,sql" />
 </p>
 
 ---
@@ -120,7 +131,7 @@ Worked on a **Digital Learning Platform for Rural School Students**
 # ⚙️ Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,flask,git,github,vscode,eclipse,postman,figma" />
+<img src="https://skillicons.dev/icons?i=spring,react,git,github,vscode,eclipse,postman,figma" />
 </p>
 
 ---
@@ -142,18 +153,6 @@ Worked on a **Digital Learning Platform for Rural School Students**
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dadigapoojasravanthi-ctrl&theme=radical)
-
----
-
-# 📊 GitHub Stats
-
-![Pooja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadigapoojasravanthi-ctrl&show_icons=true&theme=radical)
-
----
-
-# 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadigapoojasravanthi-ctrl&layout=compact&theme=radical)
 
 ---
 
